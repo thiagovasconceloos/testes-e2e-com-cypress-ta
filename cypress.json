@@ -1,5 +1,4 @@
 {
-
     "baseUrl": "https://notes-serverless-app.com",
     "responseTimeout" : 60000,
     "requestTimeout" : 60000,
@@ -9,5 +8,4 @@
     "env": {
         "viewportWidthBreakpoint": 768
       }
-       
 }
